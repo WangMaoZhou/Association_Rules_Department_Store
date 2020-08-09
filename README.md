@@ -1,0 +1,2 @@
+# Association_Rules_Department_Store
+GitHub Desktop tutorial repository
